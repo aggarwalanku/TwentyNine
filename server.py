@@ -5,7 +5,7 @@ class server:
 		suits = [
 			'S',			# Spades
 			'H',			# Hearts
-			'D',			# Diamonds
+			'D',			# Diamonds abcd kdsk asasasas
 			'C'				# Clubs
 		]
 		faces = [
